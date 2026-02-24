@@ -14,7 +14,6 @@ The rapid adoption of the Internet of Medical Things (IoMT) is transforming heal
 * You may obtain a copy of the License at https://www.gnu.org/licenses/gpl-3.0.en.html
 
 # **Citing Work**
-* Rahul Jaiswal, Per-Arne Andersen, Linga Reddy Cenkeramaddi, Lei Jiao and Ole-Christoffer Granmo,
-* A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security, 7th IEEE Silicon Valley Cybersecurity Conference, USA, pp. 1-8, 2026 (accepted).
+* Rahul Jaiswal, Per-Arne Andersen, Linga Reddy Cenkeramaddi, Lei Jiao and Ole-Christoffer Granmo, A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security, 7th IEEE Silicon Valley Cybersecurity Conference, USA, pp. 1-8, 2026 (accepted).
 
 
